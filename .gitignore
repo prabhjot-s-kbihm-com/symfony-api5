@@ -12,6 +12,7 @@
 /app/spool/*
 
 # Cache, session files and logs (Symfony3)
+/vendor/*
 /var/*
 /var/cache/*
 /var/logs/*
@@ -51,3 +52,4 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
